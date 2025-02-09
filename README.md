@@ -5,3 +5,4 @@ I have used HTML and CSS to create a simple website which has navigation and bas
 I faced a challenge where the background color changes when we are in a particular page in a Website.
 The Future Features it will have is the all the page content for other pages within the Website.
 
+![Website Image](readme/Website_Image.png)
